@@ -6,7 +6,7 @@
   <link href="https://fancraft.github.io/atom.xml" rel="self"/>
   
   <link href="https://fancraft.github.io/"/>
-  <updated>2024-09-25T08:01:03.845Z</updated>
+  <updated>2025-12-22T16:13:21.416Z</updated>
   <id>https://fancraft.github.io/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周报 一</title>
+    <link href="https://fancraft.github.io/Report/weeklyReport/"/>
+    <id>https://fancraft.github.io/Report/weeklyReport/</id>
+    <published>2025-12-21T21:11:59.000Z</published>
+    <updated>2025-12-22T16:13:21.416Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="#%E6%96%B0%E9%97%BB">新闻</a>；<a href="%E6%92%AD%E5%AE%A2">播客</a></p><h2 id="新闻"><a href="#新闻" class="headerlink" title="新闻"></a><strong>新闻</strong></h2><ol><li><p><a href="https://wallstreetcn.com/articles/3761622">特朗普帐户</a></p><p>a. 2025-2028 年出生的婴儿将获得 $1k 种子资金。资金来源与结构多元化，政府、企业及个人均可注资。</p><p>b. 优势：培养股东一代。</p><p>c. 缺陷：低收入群体额外追加有限。</p></li></ol><h2 id="播客"><a href="#播客" class="headerlink" title="播客"></a><strong>播客</strong></h2><ol><li><a href="https://hosting.wavpub.cn/storyfm/2025/12/05/%E8%BE%B9%E5%A2%83%E5%BE%80%E4%BA%8B%EF%BC%9A%E5%9B%BE%E4%BB%AC%E6%B1%9F%E8%B6%8A%E5%A2%83%E8%80%85%E4%B8%8E%E6%9C%9D%E9%B2%9C%E6%97%8F%E7%9A%84%E7%99%BE%E5%B9%B4%E8%BF%81%E5%BE%99%EF%BD%9C%E6%95%85/">关于朝鲜人和边境</a><ol><li>电影《黄海》</li></ol></li><li><a href="https://hosting.wavpub.cn/storyfm/2025/04/24/e842-%E4%B8%8D%E6%83%B3%E5%86%8D%E5%81%9A%E7%89%9B%E9%A9%AC%EF%BC%8C%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E3%80%8C%E4%BC%98%E5%8C%96%E3%80%8D%E5%88%B0%E4%BA%86%E4%B9%A1%E6%9D%91/">年轻人入乡村</a></li></ol><p><strong>视频</strong>： <a href="https://www.youtube.com/watch?v=R-oiKt7bUU8">Designing Data Visualizations with Noah Iliinsky</a></p><p><strong>人</strong>：</p><ol><li>hans rosling</li><li> 杨小凯 我的见证</li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;#%E6%96%B0%E9%97%BB&quot;&gt;新闻&lt;/a&gt;；&lt;a href=&quot;%E6%92%AD%E5%AE%A2&quot;&gt;播客&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;新闻&quot;&gt;&lt;a href=&quot;#新闻&quot; class=&quot;headerlink&quot; title=&quot;新闻&quot;&gt;&lt;/a&gt;&lt;strong&gt;新闻&lt;/strong&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://wallstreetcn.com/articles/3761622&quot;&gt;特朗普帐户&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;a. 2025-2028 年出生的婴儿将获得 $1k 种子资金。资金来源与结构多元化，政府、企业及个人均可注资。&lt;/p&gt;
+&lt;p&gt;b. 优势：培养股东一代。&lt;/p&gt;
+&lt;p&gt;c. 缺陷：低收入群体额外追加有限。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;播客&quot;&gt;&lt;a href=&quot;#播客&quot; class=&quot;headerlink&quot; title=&quot;播客&quot;&gt;&lt;/a&gt;&lt;strong&gt;播客&lt;/strong&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://hosting.wavpub.cn/storyfm/2025/12/05/%E8%BE%B9%E5%A2%83%E5%BE%80%E4%BA%8B%EF%BC%9A%E5%9B%BE%E4%BB%AC%E6%B1%9F%E8%B6%8A%E5%A2%83%E8%80%85%E4%B8%8E%E6%9C%9D%E9%B2%9C%E6%97%8F%E7%9A%84%E7%99%BE%E5%B9%B4%E8%BF%81%E5%BE%99%EF%BD%9C%E6%95%85/&quot;&gt;关于朝鲜人和边境&lt;/a&gt;&lt;ol&gt;
+&lt;li&gt;电影《黄海》&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hosting.wavpub.cn/storyfm/2025/04/24/e842-%E4%B8%8D%E6%83%B3%E5%86%8D%E5%81%9A%E7%89%9B%E9%A9%AC%EF%BC%8C%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E3%80%8C%E4%BC%98%E5%8C%96%E3%80%8D%E5%88%B0%E4%BA%86%E4%B9%A1%E6%9D%91/&quot;&gt;年轻人入乡村&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;视频&lt;/strong&gt;： &lt;a href=&quot;https://www.youtube.com/watch?v=R-oiKt7bUU8&quot;&gt;Designing Data Visualizations with Noah Iliinsky&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;人&lt;/strong&gt;：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;hans rosling&lt;/li&gt;
+&lt;li&gt; 杨小凯 我的见证&lt;/li&gt;
+&lt;/ol&gt;
+</summary>
+    
+    
+    
+    <category term="Report" scheme="https://fancraft.github.io/categories/Report/"/>
+    
+    
+    <category term="技能" scheme="https://fancraft.github.io/tags/%E6%8A%80%E8%83%BD/"/>
+    
+    <category term="商业" scheme="https://fancraft.github.io/tags/%E5%95%86%E4%B8%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>博物馆之城</title>
@@ -538,24 +582,6 @@ $ hexo s --debug&lt;/code&gt;&lt;/pre&gt;
     
     
     <category term="hexo" scheme="https://fancraft.github.io/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://fancraft.github.io/uncategorized/hello-world/"/>
-    <id>https://fancraft.github.io/uncategorized/hello-world/</id>
-    <published>2024-03-14T22:43:52.027Z</published>
-    <updated>2024-03-16T23:29:25.617Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to Fanfan’s blog. Here you’ll find nothing right now but glad I made it work!</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;Welcome to Fanfan’s blog. Here you’ll find nothing right now but glad I made it work!&lt;/p&gt;
-</summary>
-    
-    
-    
     
   </entry>
   
