@@ -6,7 +6,7 @@
   <link href="https://fancraft.github.io/atom.xml" rel="self"/>
   
   <link href="https://fancraft.github.io/"/>
-  <updated>2025-12-22T16:13:21.416Z</updated>
+  <updated>2025-12-30T04:13:37.433Z</updated>
   <id>https://fancraft.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周报 二</title>
+    <link href="https://fancraft.github.io/uncategorized/weeklyReport2/"/>
+    <id>https://fancraft.github.io/uncategorized/weeklyReport2/</id>
+    <published>2025-12-30T03:42:15.000Z</published>
+    <updated>2025-12-30T04:13:37.433Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="#%E6%96%B0%E9%97%BB">新闻</a>；<a href="%E6%92%AD%E5%AE%A2">播客</a></p><h2 id="新闻"><a href="#新闻" class="headerlink" title="新闻"></a><strong>新闻</strong></h2><ol><li>新疆民宿虽然客流量猛增，但是民宿的营业却平平无奇，年内满床天数不足一半。一个原因是由于其他系统性的大酒店在新疆各个区的布局，另一个原因是民宿竞争力过大，转手后质量参差不齐，没有独特性。导致高端的酒店营业良好，或者是最低端甚至是免费的停车区络绎不绝，但处于中间的民宿很难经营。</li></ol><h2 id="播客"><a href="#播客" class="headerlink" title="播客"></a><strong>播客</strong></h2><ol><li><a href="https://podcasts.apple.com/ca/podcast/the-intelligence-from-the-economist/id1449631195?i=1000739267406">中国</a>作为世界上数一数二的经济体量供大于需，很多消费者选择在国内消费。其他国家生产不出更好并且更便宜的产品，包括旅游景点度假。这同时会威胁到其他国家在中国的产业经济。</li></ol><p><strong>视频</strong>： <a href="https://www.youtube.com/watch?v=8DDCQRNwxjo">Kiwi Product</a>：AI 生成用户行为，实时观测，展示测试结果。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;#%E6%96%B0%E9%97%BB&quot;&gt;新闻&lt;/a&gt;；&lt;a href=&quot;%E6%92%AD%E5%AE%A2&quot;&gt;播客&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;新闻&quot;&gt;&lt;a href=&quot;#新闻&quot; class=&quot;headerlink&quot; title=&quot;新闻&quot;&gt;&lt;/a&gt;&lt;strong&gt;新闻&lt;/strong&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;新疆民宿虽然客流量猛增，但是民宿的营业却平平无奇，年内满床天数不足一半。一个原因是由于其他系统性的大酒店在新疆各个区的布局，另一个原因是民宿竞争力过大，转手后质量参差不齐，没有独特性。导致高端的酒店营业良好，或者是最低端甚至是免费的停车区络绎不绝，但处于中间的民宿很难经营。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;播客&quot;&gt;&lt;a href=&quot;#播客&quot; class=&quot;headerlink&quot; title=&quot;播客&quot;&gt;&lt;/a&gt;&lt;strong&gt;播客&lt;/strong&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://podcasts.apple.com/ca/podcast/the-intelligence-from-the-economist/id1449631195?i=1000739267406&quot;&gt;中国&lt;/a&gt;作为世界上数一数二的经济体量供大于需，很多消费者选择在国内消费。其他国家生产不出更好并且更便宜的产品，包括旅游景点度假。这同时会威胁到其他国家在中国的产业经济。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;视频&lt;/strong&gt;： &lt;a href=&quot;https://www.youtube.com/watch?v=8DDCQRNwxjo&quot;&gt;Kiwi Product&lt;/a&gt;：AI 生成用户行为，实时观测，展示测试结果。&lt;/p&gt;
+</summary>
+    
+    
+    
+    
+    <category term="技能" scheme="https://fancraft.github.io/tags/%E6%8A%80%E8%83%BD/"/>
+    
+    <category term="商业" scheme="https://fancraft.github.io/tags/%E5%95%86%E4%B8%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>周报 一</title>
@@ -553,35 +582,6 @@
     
     
     <category term="summary" scheme="https://fancraft.github.io/tags/summary/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>网站构建历史</title>
-    <link href="https://fancraft.github.io/web/my-new-post/"/>
-    <id>https://fancraft.github.io/web/my-new-post/</id>
-    <published>2024-03-21T09:05:58.000Z</published>
-    <updated>2024-08-07T21:42:43.993Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="调试"><a href="#调试" class="headerlink" title="调试"></a>调试</h1><h3 id="favicon"><a href="#favicon" class="headerlink" title="favicon"></a>favicon</h3><p>在<a href="https://realfavicongenerator.net/">这里</a>设置网站图片。在主题配置文件 <code>favicon</code> 更改。<code>avatar</code> 同理</p><h3 id="增加标签页-分类页"><a href="#增加标签页-分类页" class="headerlink" title="增加标签页/分类页"></a>增加标签页 / 分类页</h3><p><code>hexo new page tags</code></p><p>.md 中添加 <code>type: tags</code></p><p><code>categories</code> 同理</p><h3 id="本地调试步骤"><a href="#本地调试步骤" class="headerlink" title="本地调试步骤"></a>本地调试步骤</h3><pre><code class="highlight plaintext">$ hexo clean$ hexo g$ hexo s --debug</code></pre><h3 id="部署步骤"><a href="#部署步骤" class="headerlink" title="部署步骤"></a>部署步骤</h3><pre><code class="highlight plaintext">$ hexo clean$ hexo g$ hexo d</code></pre><h3 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h3><pre><code class="highlight plaintext">$ hexo new "postName"  #新建文章$ hexo new page "pageName" # 新建页面$ hexo generate # 生成静态页面至public目录$ hexo server # 开启预览访问端口(默认端口4000，'ctrl+c'关闭server)$ hexo deploy # 项目部署$ hexo help # 查看帮助$ hexo version # 查看Hexo的版本</code></pre><p><a href="https://hexo.io/docs/">documentation</a> </p><p><a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a></p><h2 id="虫子"><a href="#虫子" class="headerlink" title="虫子"></a>虫子</h2><ol><li><p>本地编辑 <code>power by</code>，<code>icon</code>，<code>reward</code>,<code>avatar</code> 无及时反馈。可能存在的问题：</p><p>a. <del>需要联网</del></p><p>原因：code 里没有完整的<code>.enable</code></p><p>解决：删除 footer.swig 中 powered by 或添加<code>.enable</code>。或者改成 <code>!==false</code></p></li><li><p>持续 bug，解决不了了！！直接重启 theme！</p><ol><li><p>install a theme</p><ol><li><code>git clone &lt;theme-repo-url&gt; themes/&lt;theme-name&gt;</code></li></ol></li><li><p>remove a theme</p><ol><li><pre><code>git rm -rf themes/&lt;theme-name&gt;# remove as a submodulerm -rf themes/&lt;theme-name&gt;git submodule deinit -f themes/&lt;theme-name&gt;rm -rf .git/modules/themes/&lt;theme-name&gt;git rm -f themes/&lt;theme-name&gt;<pre><code class="highlight plaintext"></code></pre></code></pre></li></ol></li></ol></li><li><p><code>sidebar</code> 无法删除。</p><ol><li>解决：直接 inspect element/f12，强行删除 sidebar… 哪里不爽点哪里。<a href="https://io-oi.me/tech/hexo-next-optimization/#%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%98%BE%E7%A4%BA-back-to-top-%E6%8C%89%E9%92%AE%E5%92%8C%E4%BE%A7%E6%A0%8F">参考</a></li></ol></li><li><p>文章结尾出现 <code>Template render error: </code></p><ol><li>解决：文件里出现 <code>{{%}}</code> 删除即可，这也是为什么我没有再把所有编辑过的码 po 上来的原因…</li></ol></li><li><p> 无法显示 busuanzi count 记录本站访问次数</p><ol><li>解决：直接上 busuanzi 官网复制粘贴代码到 <code>footer.njk</code>，不知道为什么 <code>swig</code> 改到了 <code>njk</code>，不过都能用。并添加 post-meta-devider。</li><li>解决 2: <code>footer.njk</code> 中<code>.enable</code> 改成 <code>!==false </code>，并且将 busuanzi 官方两行代码复制到 <code>busuanzi-counter.njk</code> 文件</li></ol></li><li><p> Local search 不显示</p><ol><li>解决：<code>themes/next/layout/_partials/header/menu.njk</code> 和 <code>themes/next/layout/_partials/search/index.njk</code> 中<code>.enable</code> 改成 <code>!==false </code></li></ol></li></ol><h2 id="下一步"><a href="#下一步" class="headerlink" title="下一步"></a>下一步</h2><ol><li><del>下载 dependencies: word count,</del></li><li><del>search services</del></li><li><del>busuanzi count</del></li><li><code>local search: true</code><ol><li><em>未成功</em></li></ol></li><li><del>添加底部已运行–天–时–</del></li><li>添加到 google search 中 <ol><li><a href="https://developers.google.com/search">https://developers.google.com/search</a></li><li> 搞个 html verification，复制到配置文件里 <code>&lt;meta name="google-site-verification" content="zmdllLs3T5PIoDAKGjHjdF-gO6eH3uqxmbBf5yQNeDA" /&gt;</code></li><li><em>未成功 </em></li></ol></li><li><del><code>reward</code> 二维码</del></li><li>修改博客颜色<ol><li>预备颜色<ol><li> CCD5AE，E9EDC9，FEFAE0，FAEDCD，D4A373</li><li>DAD7CD，<strong>A3B18A</strong>，<strong>588157，3A5A40</strong>，344E41</li></ol></li></ol></li><li> 阅读进程滚动条<ol><li><em>未成功</em><ol><li><code>source/css/_common/components/reading-progress.styl</code> 改成 <code>!==false</code></li></ol></li></ol></li><li>豆瓣 /notion plugin</li><li> 字体大小<ol><li> themes/next/source/css/_variables</li></ol></li><li> 安装插件 参考 sakuraTears</li></ol><h2 id="分水岭"><a href="#分水岭" class="headerlink" title="分水岭"></a>分水岭</h2><p>以上很多问题，譬如 <code>power by</code>，<code>icon</code>，<code>reward</code>,<code>avatar</code>，<code>search</code> 无及时反馈等等，在参考<a href="https://theme-next.js.org/docs/getting-started/">官方教程</a>之后，基本都解决了。问题就在于网上很多教程都是好几年前的，当时 <code>hexo</code> 站点和 <code>next theme</code> 各有一个配置文件 <code>config.yml</code>。作者更新后，只需在 <code>hexo</code> 的 <code>site root directory</code> 添加<code>_config.next.yml</code> 文件即可。所以.. 必要时需要重新阅读说明书。</p><h3 id="Hexo插件"><a href="#Hexo插件" class="headerlink" title="Hexo插件"></a>Hexo 插件</h3><h4 id="文章加密"><a href="#文章加密" class="headerlink" title="文章加密"></a><a href="https://github.com/MikeCoder/hexo-blog-encrypt">文章加密</a></h4><pangu> </pangu><pre><code class="highlight plaintext">npm install --save hexo-blog-encrypt`在文章信息头插入`password: mikemessi abstract: 有东西被加密了, 请输入密码查看.``message: 您好, 这里需要密码.</code></pre><h4 id="文字遮盖效果-Spoiler"><a href="#文字遮盖效果-Spoiler" class="headerlink" title="文字遮盖效果 Spoiler"></a><a href="https://github.com/unnamed42/hexo-spoiler">文字遮盖效果 Spoiler</a></h4><p><a href="http://htmlpreview.github.io/?https://github.com/unnamed42/hexo-spoiler/blob/master/example/index.html">预览效果</a><br><code>npm install hexo-spoiler --save</code><br>站点根目录配置填写</p><pre><code class="highlight plaintext">spoiler:  style: blur # 或者box  color: black # 仅当 style 为 box 时起效  p: false # 没懂啥意思，不管它</code></pre><h4 id="分栏"><a href="#分栏" class="headerlink" title="分栏"></a><a href="https://github.com/YunYouJun/hexo-tag-common">分栏</a></h4><p><code>npm install hexo-tag-common</code><br>具体使用说明：<a href="https://theme-next.js.org/docs/tag-plugins/tabs.html">Tabs-NexT</a></p><pre><code class="highlight plaintext">{% spoiler p: color:red `inline code` [link](https://example.com) *italic* ~~delete~~ **bold** %}</code></pre><p>add <code>&lt;p/&gt;</code> in-between</p> <p><!-- spoiler-bda96:red --></p><p class="spoiler" onclick="this.classList.toggle('spoiler')"><span class="spoiler-blur spoiler-bda96">post test</span></p> <p></p><h4 id="首页预览"><a href="#首页预览" class="headerlink" title="首页预览"></a><a href="https://hexo.io/docs/tag-plugins#Post-Excerpt">首页预览</a></h4><ol><li>文章中放置 <code>&lt;!-- more --&gt;</code>。</li><li>前端设置 <code>description: 想要被预览的内容</code>。弊端是正文也会有总结… 还不如用 tag</li></ol><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>June 30: 修改’buy me a coffee’，<code>config.yml</code> 里的 <code>reward comment</code> 修改无效，直接找到 <code>post-reward.njk</code> 修改 <code>&lt;div&gt;{{ __("谢谢老板打赏") }}&lt;/div&gt;</code>。</p><p>参考</p><ol><li><p><a href="https://zhuanlan.zhihu.com/p/618864711">Hexo+Next 主题搭建个人博客 + 优化全过程（完整详细版）</a></p></li><li><p><a href="https://blog.juanertu.com/archives/264a3045">Hexo 框架 (三)：Next 主题配置及美化</a></p></li><li><p><a href="https://loafing.cn/posts/hexo-tags.html#">Hexo 插件</a></p></li></ol>]]></content>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;调试&quot;&gt;&lt;a href=&quot;#调试&quot; class=&quot;headerlink&quot; title=&quot;调试&quot;&gt;&lt;/a&gt;调试&lt;/h1&gt;&lt;h3 id=&quot;favicon&quot;&gt;&lt;a href=&quot;#favicon&quot; class=&quot;headerlink&quot; title=&quot;favicon&quot;&gt;&lt;/a&gt;favicon&lt;/h3&gt;&lt;p&gt;在&lt;a href=&quot;https://realfavicongenerator.net/&quot;&gt;这里&lt;/a&gt;设置网站图片。在主题配置文件 &lt;code&gt;favicon&lt;/code&gt; 更改。&lt;code&gt;avatar&lt;/code&gt; 同理&lt;/p&gt;
-&lt;h3 id=&quot;增加标签页-分类页&quot;&gt;&lt;a href=&quot;#增加标签页-分类页&quot; class=&quot;headerlink&quot; title=&quot;增加标签页/分类页&quot;&gt;&lt;/a&gt;增加标签页 / 分类页&lt;/h3&gt;&lt;p&gt;&lt;code&gt;hexo new page tags&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;.md 中添加 &lt;code&gt;type: tags&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;categories&lt;/code&gt; 同理&lt;/p&gt;
-&lt;h3 id=&quot;本地调试步骤&quot;&gt;&lt;a href=&quot;#本地调试步骤&quot; class=&quot;headerlink&quot; title=&quot;本地调试步骤&quot;&gt;&lt;/a&gt;本地调试步骤&lt;/h3&gt;&lt;pre&gt;&lt;code class=&quot;highlight plaintext&quot;&gt;$ hexo clean
-$ hexo g
-$ hexo s --debug&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&quot;部署步骤&quot;&gt;&lt;a href=&quot;#部署步骤&quot; class=&quot;headerlink&quot; title=&quot;部署步骤&quot;&gt;&lt;/a&gt;部署步骤&lt;/h3&gt;</summary>
-    
-    
-    
-    <category term="web" scheme="https://fancraft.github.io/categories/web/"/>
-    
-    
-    <category term="hexo" scheme="https://fancraft.github.io/tags/hexo/"/>
     
   </entry>
   
